@@ -1,0 +1,7 @@
+-- This module is the root of the BuzzardGeeConjectureCanonicalLaneLean Lean proof package.
+import BuzzardGeeConjectureCanonicalLaneLean.Basic
+import BuzzardGeeConjectureCanonicalLaneLean.SourcePackage
+import BuzzardGeeConjectureCanonicalLaneLean.SourceDependencies
+import BuzzardGeeConjectureCanonicalLaneLean.Formalization
+import BuzzardGeeConjectureCanonicalLaneLean.ReviewerBridge
+import BuzzardGeeConjectureCanonicalLaneLean.TheoremStatement
